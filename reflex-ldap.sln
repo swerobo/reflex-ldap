@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reflex-ldap", "reflex-ldap\reflex-ldap.csproj", "{02327B0A-46B1-47CD-8678-F7819698F238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02327B0A-46B1-47CD-8678-F7819698F238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02327B0A-46B1-47CD-8678-F7819698F238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02327B0A-46B1-47CD-8678-F7819698F238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02327B0A-46B1-47CD-8678-F7819698F238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC1A8353-2DFF-44E7-A8EF-B0E08CE075B5}
+	EndGlobalSection
+EndGlobal
